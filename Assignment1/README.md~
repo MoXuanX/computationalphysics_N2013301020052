@@ -11,7 +11,7 @@
 - 按照markdown语法书写自己的第一个README.md
 
 ##结论
--[README.MD](https://github.com/MoXuanX/computationalphysics_N2013301020052/blob/master/)
+-[README.MD](https://github.com/MoXuanX/computationalphysics_N2013301020052/)
 
 ##致谢
 
