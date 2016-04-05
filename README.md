@@ -4,8 +4,8 @@
 
 ##Assignment:
 
-- [**Assignment3**](https://github.com/MoXuanX/computationalphysics_N2013301020052/blob/master/Assignment1/)
-- [**Assignment3**](https://github.com/MoXuanX/computationalphysics_N2013301020052/blob/master/Assignment2/)
+- [**Assignment1**](https://github.com/MoXuanX/computationalphysics_N2013301020052/blob/master/Assignment1/)
+- [**Assignment2**](https://github.com/MoXuanX/computationalphysics_N2013301020052/blob/master/Assignment2/)
 - [**Assignment3**](https://github.com/MoXuanX/computationalphysics_N2013301020052/blob/master/Assignment3/)
 - [**Assignment4**](https://github.com/MoXuanX/computationalphysics_N2013301020052/blob/master/CHAPTER_1/Assignment4/)
 
